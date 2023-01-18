@@ -26,7 +26,7 @@ To develop a Django application to store and retrieve data from a database using
 ## Entity Relationship Diagram
 
 ### Flight information entity diagram
-![entity](entity.png)
+![entity](entity.jpg)
 
 
 ## DESIGN STEPS
@@ -57,7 +57,7 @@ class Flightinfo(admin.ModelAdmin):
 
 
 ## OUTPUT
-![out](flightinfo.png)
+![out](flightinfo.jpg)
 
 
 ## RESULT
