@@ -5,26 +5,6 @@ To develop a Django application to store and retrieve data from a database using
 
 ## Entity Relationship Diagram
 
-Include your ER diagram here
-
-## DESIGN STEPS
-
-### STEP 1:
-
-### STEP 2:
-
-### STEP 3:
-
-Write your own steps
-
-## PROGRAM
-# Django ORM Web Application
-
-## AIM
-To develop a Django application to store and retrieve data from a database using Object Relational Mapping(ORM).
-
-## Entity Relationship Diagram
-
 ### Flight information entity diagram
 ![entity](entity.jpg)
 
@@ -63,11 +43,4 @@ class Flightinfo(admin.ModelAdmin):
 ## RESULT
 Thus the project is developed to have Hostel information database
 
-Include your code here
 
-## OUTPUT
-
-Include the screenshot of your admin page.
-
-
-## RESULT
